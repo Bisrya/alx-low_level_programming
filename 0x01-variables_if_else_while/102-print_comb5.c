@@ -29,9 +29,8 @@ putchar(a);
 putchar(' ');
 putchar(n);
 putchar(d);
-
-if (l != '9' || a != '8' ||
-n != '9' || d != '9')
+if (l != '9' || a != '8' || n != '9' || d != '9')
+{
 putchar(',');
 putchar(' ');
 }
@@ -41,6 +40,8 @@ n++;
 }
 }
 l++;
+}
 putchar('\n');
 return (0);
 }
+
