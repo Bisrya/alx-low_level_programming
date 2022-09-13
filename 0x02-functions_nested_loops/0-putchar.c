@@ -1,4 +1,12 @@
 #include "main.h"
+/**
+ * main - Prints _putchar
+ * @void: Empty parameter list for main.
+ *
+ * Description: Prints Holberton w/out stdio
+ *
+ * Return: 0 for success
+ */
 int main(void)
 {
 int i;
