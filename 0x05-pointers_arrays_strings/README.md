@@ -1,0 +1,1 @@
+This is Tsk for pointers , arrays and strings
